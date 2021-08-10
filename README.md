@@ -1,3 +1,4 @@
 # AzureFunctionsTest
 Local test of utilizing Azure Functions
-Testeryt
+Test
+Fixed the text
