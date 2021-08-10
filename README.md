@@ -1,3 +1,3 @@
 # AzureFunctionsTest
 Local test of utilizing Azure Functions
-im amazing
+The final test praise be my name
